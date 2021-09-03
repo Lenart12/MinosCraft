@@ -4,7 +4,7 @@ package si.wgn;
  * Hello world!
  *
  */
-public class App 
+public class Minos 
 {
     public static void main( String[] args )
     {
